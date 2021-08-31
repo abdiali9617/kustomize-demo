@@ -7,6 +7,6 @@ bases:
   - ../base
 
 images:
-  - name: quay.io/pittar/contoso
-    newName: quay.io/pittar/contoso
+  - name: 040913/hello-image
+    newName: 040913/hello-imageo
     newTag: dev
