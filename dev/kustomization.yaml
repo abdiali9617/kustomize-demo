@@ -8,5 +8,5 @@ bases:
 
 images:
   - name: 040913/hello-image
-    newName: 040913/hello-imageo
-    newTag: dev
+    newName: 040913/hello-image
+    newTag: latest
