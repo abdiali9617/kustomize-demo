@@ -21,7 +21,7 @@ spec:
         deploymentconfig: deployment
     spec:
       containers:
-        - image: quay.io/pittar/contoso:latest
+        - image: 040913/hello-image:dev
           imagePullPolicy: Always
           name: deployment
           ports:
